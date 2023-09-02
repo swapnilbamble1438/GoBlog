@@ -1,5 +1,5 @@
 # GoBlog
-## It is an Online Blog Application. 
+## It is an Online Blogging Application. 
 ### It is Java J2EE Application. Build in Eclipse IDE using Maven Project.
 
 ### Technology used in this Project: 
