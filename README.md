@@ -34,24 +34,9 @@
   
 -  If everything goes right Project will get successfully imported
 -  Now wait for few seconds for getting things properly loaded
--  Now open Project > open com.conn package > open DBConnect.java file.
-   Now make some changes in this file,
-   change Database file location/(mydatabase.db) file location/
-   change "conn" value,
-   like if it is:
-   
-   conn = DriverManager.getConnection("jdbc:sqlite:C:/Users/Swapnil/eclipse- 
-   workspace/Online Electronic Shopping/mydatabase.db");
-   
-   change the "conn" value/path according to your mydatabase.db file location.
-
-                 mydatabase.db file will get just inside Project folder only,
-                 Open Project folder you will get mydatabase.db file present.
-   
--  After doing changes save the DBConnect.java file.   
 -  Right Click On Project > Run As > Run On Server > Select Tomcat V8.0+ > Next > Finish
 -  Now Website will get open, if not, then try opening it manually in Browser,
-   Type Url: http://localhost:8082/EcommerceApp
+   Type Url: http://localhost:8082/TechnicalBlog
 -  Note: In Url put Port according to your server.
   
 
@@ -156,29 +141,6 @@ constraint uid
    on update cascade
 );
 
-
-
-
-### Now do some changes in Project
-- In Eclipse
-- Open Project > open com.conn package > open DBConnect.java file.
-   Now make some changes in this file,
-   change "conn" value,
-  like if it is
-   
-   conn = DriverManager.getConnection("jdbc:sqlite:C:/Users/Swapnil/eclipse- 
-   workspace/Online Electronic Shopping/mydatabase.db");
-   
-   change it to
-
-  conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/DatabaseName","root","root");
-
-
-  Note: Put Address according to your Database Name and Password.
-
-  - Save the file
-
-  - Now try running Project and Check if the changes are done or not.
 
    
 
