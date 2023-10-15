@@ -33,7 +33,7 @@
 
 -  proceed -> Next
 
-            Now only select GoBlog\GoBlog
+            Now only select GoBlog\TechnicalBlog
             -> Finish
   
 -  If everything goes right Project will get successfully imported
