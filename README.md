@@ -1,10 +1,11 @@
 # GoBlog
+### It is Java J2EE Application. Build in Eclipse IDE using Maven Project.
+
 ## It is an Online Blogging Application. 
--  Create and post the Blogs
+-  User can Create and post the Blogs
 -  Like and Dislike the Blogs
 -  Update User Profile, etc.
 
-### It is Java J2EE Application. Build in Eclipse IDE using Maven Project.
 
 ### Technology used in this Project: 
 - i) Java: all Backend logic has been written in java.
