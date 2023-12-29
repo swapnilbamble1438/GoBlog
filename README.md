@@ -2,6 +2,8 @@
 ### It is Java J2EE Application. Build in Eclipse IDE using Maven Project.
 
 ## It is an Online Blogging Application. 
+
+### Application Features:
 -  User can Create and post the Blogs
 -  Like and Dislike the Blogs
 -  Update User Profile, etc.
