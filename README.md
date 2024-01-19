@@ -35,6 +35,10 @@
 -  Now in Local Destination
 
 -  proceed -> Next
+  
+- select -> Search for nested projects
+- and select -> Detect and configure project natures options
+
 
             Now only select GoBlog\TechnicalBlog
             -> Finish
